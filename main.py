@@ -1,4 +1,4 @@
-TEKS = "NADIA AMANDA SARI"
+TEKS = "0101010"
 LEBAR, TINGGI = 60, 30
 pusat_x, pusat_y = LEBAR / 2, TINGGI / 2
 radius_bulan = 27
